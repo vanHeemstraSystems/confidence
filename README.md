@@ -13,5 +13,10 @@ Based on "Mastering something" at https://www.collinsdictionary.com/dictionary/e
 
 Slide 1
 
+![Slide2](https://github.com/vanHeemstraSystems/confidence/assets/1499433/986737ce-8ff7-4436-91a6-66960e862d2e)
+
+Slide 2
+
+
 
 
