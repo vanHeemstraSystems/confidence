@@ -21,8 +21,6 @@ Slide 2
 
 Slide 3
 
-...
+![Slide4](https://github.com/vanHeemstraSystems/confidence/assets/1499433/651e6c9f-dc52-41c0-87ea-9baad158b37b)
 
 Slide 4
-
-
