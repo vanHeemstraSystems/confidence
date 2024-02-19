@@ -1,5 +1,5 @@
 confidence
-# Confidence
+# Confidence - Master a Skill
 
 Based on "How to be confident in yourself and build self-esteem" at https://www.youtube.com/watch?v=pnebIsQHgkM
 
