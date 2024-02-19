@@ -17,7 +17,7 @@ Slide 1
 
 Slide 2
 
-![Slide3](https://github.com/vanHeemstraSystems/confidence/assets/1499433/8816f051-7ef4-4117-b321-5145267e51e6)
+![Slide3](https://github.com/vanHeemstraSystems/confidence/assets/1499433/d497f806-763f-4e76-91fd-955d6bff53d7)
 
 Slide 3
 
