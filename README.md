@@ -1,5 +1,5 @@
 confidence
-# Confidence - Master a Skill
+# Confidence - Develop Mastery In Any Skill Set
 
 Based on "How to be confident in yourself and build self-esteem" at https://www.youtube.com/watch?v=pnebIsQHgkM
 
